@@ -22,11 +22,6 @@ This project demonstrates networking concepts in Java, allowing multiple clients
 **ChatServer.java:** Server that listens for client connections and broadcasts messages  
 **ChatClient.java:** Client that connects to the server and exchanges messages 
 
----
 
-## 💻 How to Run
-1. Compile the files
-```bash  
-javac ChatServer.java ChatClient.java
-2. Start the server
+---
    
